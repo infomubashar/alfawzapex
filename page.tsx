@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{background:'#000',color:'#fff',padding:40,minHeight:'100vh'}}><h1 style={{color:'#D4AF37'}}>ALFAWZ APEX</h1><p>Luxury Marketplace</p><p>info@alfawzapex.com</p><p>contact@alfawzapex.com</p></main>}
